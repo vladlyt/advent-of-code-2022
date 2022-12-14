@@ -1,10 +1,8 @@
-
-
-pub fn process_part1(input: &str) -> String {
+pub fn process_part1(_input: &str) -> String {
     "result".to_string()
 }
 
-pub fn process_part2(input: &str) -> String {
+pub fn process_part2(_input: &str) -> String {
     "result".to_string()
 }
 
